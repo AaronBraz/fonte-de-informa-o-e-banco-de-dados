@@ -1,4 +1,4 @@
-# fonte-de-informa-o-e-banco-de-dados
+# fonte-de-informaç-o-es-banco-de-dados
 disciplina ministrada pelo primeiro semestre pelo CST GPI
 ## Apresentação em equipe utilizando software de design gráfico 
 Apresentação prodzuzida pelo Canvas, e foi apresentada de forma oral.
