@@ -30,3 +30,5 @@ https://docs.google.com/spreadsheets/d/19HB8JEV6hIH7cVFf6rd-9ZEfIw8-Oeon/edit?us
 <img width="1919" height="841" alt="Captura de tela 2026-04-10 221041" src="https://github.com/user-attachments/assets/5611617a-da9c-4812-b69b-b7448f769a4b" />
 
 ## Conclusão do curso de pyton
+<img width="1220" height="837" alt="WhatsApp Image 2026-04-24 at 21 33 02" src="https://github.com/user-attachments/assets/5c9df8ab-45a9-4cc6-8dae-a3a8c30963b1" />
+
