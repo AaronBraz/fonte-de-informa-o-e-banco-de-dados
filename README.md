@@ -38,8 +38,7 @@ Menor movimentação: Ano 2020 Mês Abril
 Maior movimentação: Ano 2025 Mês fevereiro 
 B) Ano: 2026
 C)
-<img width="1817" height="937" alt="Captura de tela 2026-05-08 222438" src="https://github.com/user-attachments/assets/15d9a11f-6a58-4a4e-9ad8-b64087163dcf" />
-
+<img width="1778" height="928" alt="Captura de tela 2026-05-08 222456" src="https://github.com/user-attachments/assets/c8cd0732-59bd-4b3d-afd9-140d13d01dd2" />
 
 
 
