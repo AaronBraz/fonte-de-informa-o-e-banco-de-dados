@@ -32,3 +32,14 @@ https://docs.google.com/spreadsheets/d/19HB8JEV6hIH7cVFf6rd-9ZEfIw8-Oeon/edit?us
 ## Conclusão do curso de pyton
 <img width="1220" height="837" alt="WhatsApp Image 2026-04-24 at 21 33 02" src="https://github.com/user-attachments/assets/5c9df8ab-45a9-4cc6-8dae-a3a8c30963b1" />
 
+## Atividade power BI 
+A)
+Menor movimentação: Ano 2020 Mês Abril
+Maior movimentação: Ano 2025 Mês fevereiro 
+B) Ano: 2026
+C)
+<img width="1817" height="937" alt="Captura de tela 2026-05-08 222438" src="https://github.com/user-attachments/assets/15d9a11f-6a58-4a4e-9ad8-b64087163dcf" />
+
+
+
+
