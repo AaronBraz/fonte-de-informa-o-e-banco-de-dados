@@ -37,6 +37,10 @@ A)
 Menor movimentação: Ano 2020 Mês Abril
 Maior movimentação: Ano 2025 Mês fevereiro 
 B) Ano: 2026
+
+## Certificado de conclusão power BI
+<img width="847" height="568" alt="Certificado power BI" src="https://github.com/user-attachments/assets/216880fb-17bb-4f37-84e5-1cd5288b7abb" />
+
 C)
 <img width="1778" height="928" alt="Captura de tela 2026-05-08 222456" src="https://github.com/user-attachments/assets/c8cd0732-59bd-4b3d-afd9-140d13d01dd2" />
 
