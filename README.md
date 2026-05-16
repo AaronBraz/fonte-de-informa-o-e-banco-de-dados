@@ -31,16 +31,14 @@ https://docs.google.com/spreadsheets/d/19HB8JEV6hIH7cVFf6rd-9ZEfIw8-Oeon/edit?us
 
 ## Conclusão do curso de pyton
 <img width="1220" height="837" alt="WhatsApp Image 2026-04-24 at 21 33 02" src="https://github.com/user-attachments/assets/5c9df8ab-45a9-4cc6-8dae-a3a8c30963b1" />
+## Certificado de conclusão power BI
+<img width="847" height="568" alt="Certificado power BI" src="https://github.com/user-attachments/assets/216880fb-17bb-4f37-84e5-1cd5288b7abb" />
 
 ## Atividade power BI 
 A)
 Menor movimentação: Ano 2020 Mês Abril
 Maior movimentação: Ano 2025 Mês fevereiro 
 B) Ano: 2026
-
-## Certificado de conclusão power BI
-<img width="847" height="568" alt="Certificado power BI" src="https://github.com/user-attachments/assets/216880fb-17bb-4f37-84e5-1cd5288b7abb" />
-
 C)
 <img width="1778" height="928" alt="Captura de tela 2026-05-08 222456" src="https://github.com/user-attachments/assets/c8cd0732-59bd-4b3d-afd9-140d13d01dd2" />
 
