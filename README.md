@@ -40,6 +40,10 @@ Menor movimentação: Ano 2020 Mês Abril
 Maior movimentação: Ano 2025 Mês fevereiro 
 B) Ano: 2026
 C)
+
+## Atividade Ice Cream Sales
+<img width="1600" height="868" alt="image" src="https://github.com/user-attachments/assets/13816863-75ae-415c-a241-204072d5355b" />
+
 <img width="1778" height="928" alt="Captura de tela 2026-05-08 222456" src="https://github.com/user-attachments/assets/c8cd0732-59bd-4b3d-afd9-140d13d01dd2" />
 
 
