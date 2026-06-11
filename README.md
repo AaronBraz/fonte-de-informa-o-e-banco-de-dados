@@ -40,11 +40,16 @@ Menor movimentação: Ano 2020 Mês Abril
 Maior movimentação: Ano 2025 Mês fevereiro 
 B) Ano: 2026
 C)
+<img width="1778" height="928" alt="Captura de tela 2026-05-08 222456" src="https://github.com/user-attachments/assets/c8cd0732-59bd-4b3d-afd9-140d13d01dd2" />
 
 ## Atividade Ice Cream Sales
 <img width="1600" height="868" alt="image" src="https://github.com/user-attachments/assets/13816863-75ae-415c-a241-204072d5355b" />
 
-<img width="1778" height="928" alt="Captura de tela 2026-05-08 222456" src="https://github.com/user-attachments/assets/c8cd0732-59bd-4b3d-afd9-140d13d01dd2" />
+## Atividade consumo de cerveja
+<img width="1600" height="862" alt="image" src="https://github.com/user-attachments/assets/9358eea2-fe66-48de-b897-1e448836ef1b" />
+
+## Atividade Média dos gráficos
+<img width="1600" height="861" alt="image" src="https://github.com/user-attachments/assets/0db2bc04-1cce-4c2a-816b-fc0a4f039c22" />
 
 
 
