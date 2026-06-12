@@ -51,5 +51,14 @@ C)
 ## Atividade Média dos gráficos
 <img width="1600" height="861" alt="image" src="https://github.com/user-attachments/assets/0db2bc04-1cce-4c2a-816b-fc0a4f039c22" />
 
+# Utilizando o Excel, Kaggle e Colab para comparar o consumo de cerveja no estado de São Paulo.
+[Consumo_cerveja.xlsx](https://github.com/user-attachments/files/27838924/Consumo_cerveja.xlsx)
+   <img width="1920" height="1080" alt="Captura de Tela (1)" src="https://github.com/user-attachments/assets/bd7c8e29-d419-4efa-a16a-6d5a59b0def9" />
+
+
+# Utilizando o Excel, Kaggle e Colab para relacionar a temperatura e a venda de sorvetes.
+[Ice Cream Sales - temperatures.xlsx](https://github.com/user-attachments/files/27839000/Ice.Cream.Sales.-.temperatures.xlsx)
+<img width="1904" height="841" alt="Captura de tela 2026-05-15 223305" src="https://github.com/user-attachments/assets/a848b470-1bcc-414d-8dc8-ab541edd0358" />
+
 
 
